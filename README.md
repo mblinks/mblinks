@@ -15,6 +15,7 @@
   - [Recipe Site Traffic Prediction](https://github.com/mblinks/python/blob/main/Recipe_Site_Traffic.ipynb)
 - <b>Bioinformatics</b>
   - [Analysis of single-cell RNA-Seq data of Human Glioblastoma Multiforme cells](https://github.com/mblinks/R)
+  - [QSAR modeling and pharmacoinformatics of SARS coronavirus 3C-like protease inhibitors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8111888/)
 
 ## 🤖 Tools
 ### Data Analysis and Machine Learning
