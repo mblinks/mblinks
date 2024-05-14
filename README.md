@@ -43,6 +43,10 @@
     </div>
     
 ## Certifications
+![Data Scientist Professional](https://github.com/mblinks/mblinks.github.io/blob/main/assets/dsp.PNG)
+![Data Analyst Professional](https://github.com/mblinks/mblinks.github.io/blob/main/assets/dap.PNG)
+![Data Scientist Associate](https://github.com/mblinks/mblinks.github.io/blob/main/assets/dsa.PNG)
+![Data Analyst Associate](https://github.com/mblinks/mblinks.github.io/blob/main/assets/daa.PNG)
 <div>
     <img src="https://img.shields.io/badge/-DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" />
     <img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
