@@ -6,6 +6,12 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b>Bioinformatics</b>
+  - [Single Cell RNASeq Data Analysis of 7.5k Sorted Cells from Human Invasive Ductal Carcinoma](https://github.com/mblinks/scanpy)
+  - [Analysis of single-cell RNA-Seq data of Human Glioblastoma Multiforme cells](https://github.com/mblinks/R)
+  - [QSAR modeling and pharmacoinformatics of SARS coronavirus 3C-like protease inhibitors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8111888/)
+  - [Molecular basis for the repurposing of histamine H2-receptor antagonist to treat COVID-19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7852284/)
+   
 - <b>Data Modeling with Python </b>
   - [Credit Risk Analysis](https://github.com/mblinks/python/blob/main/Credit_Risk_Analysis.ipynb)
   - [Fitness Class Prediction](https://github.com/mblinks/python/blob/main/Fitness_Class.ipynb)
@@ -13,11 +19,6 @@
   - [Pet Box Subscription Analysis](https://github.com/mblinks/python/blob/main/Pet_Box_Subscription.ipynb)
   - [Product Sales Analysis](https://github.com/mblinks/python/blob/main/Product_Sales.ipynb)
   - [Recipe Site Traffic Prediction](https://github.com/mblinks/python/blob/main/Recipe_Site_Traffic.ipynb)
-- <b>Bioinformatics</b>
-  - [Single Cell RNASeq Data Analysis of 7.5k Sorted Cells from Human Invasive Ductal Carcinoma](https://github.com/mblinks/scanpy)
-  - [Analysis of single-cell RNA-Seq data of Human Glioblastoma Multiforme cells](https://github.com/mblinks/R)
-  - [QSAR modeling and pharmacoinformatics of SARS coronavirus 3C-like protease inhibitors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8111888/)
-  - [Molecular basis for the repurposing of histamine H2-receptor antagonist to treat COVID-19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7852284/)
 
 ## 🤖 Tools
 ### Data Analysis and Machine Learning
